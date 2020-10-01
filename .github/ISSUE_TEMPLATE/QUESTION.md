@@ -3,7 +3,7 @@ name: Question
 about: Ask a question
 title: ""
 labels: New Question
-assignees: @tallguyjenks
+assignees: tallguyjenks
 
 ---
 
