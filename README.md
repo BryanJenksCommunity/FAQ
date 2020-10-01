@@ -3,6 +3,4 @@ Frequently Asked Questions
 
 ---
 
-> **How tall are you?**
-
-I'm 6'6" or 198cm for you metric folks
+All questions can be asked and will be retained in [Issues](www.github.com/tallguyjenks/FAQ/issues)
