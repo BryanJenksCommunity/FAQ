@@ -3,4 +3,4 @@ Frequently Asked Questions
 
 ---
 
-All questions can be asked and will be retained in [Issues](www.github.com/tallguyjenks/FAQ/issues)
+All questions can be asked and will be retained in this repo's `Issues`
