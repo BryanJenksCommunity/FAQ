@@ -1,6 +1,8 @@
 <center>
   <img src="/img/image.png">
-  <h1>FAQ</h1>
+  <br>
+  <b style="font-size: 28px;">FAQ</b>
+  <br>
   <i>Frequently Asked Questions</i>
   <hr>
   <p>All questions can be asked and will be retained in this repo's <code>Issues</code></p>
