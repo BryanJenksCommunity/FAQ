@@ -1,3 +1,7 @@
+<center>
+  <img src="/img/image.png">
+</center>
+
 <b>FAQ</b>
 
 <i>Frequently Asked Questions</i>
