@@ -18,6 +18,9 @@
 - [YouTube](https://www.youtube.com/c/BryanJenksTech)
 - [Twitter](https://twitter.com/tallguyjenks)
 - [Twitch](https://www.twitch.tv/tallguyjenks)
+- [LinkedIn](https://www.linkedin.com/in/bryanjenks/)
+- [Medium](https://medium.com/@tallguyjenks)
+- [Website](https://www.bryanjenks.dev)
 
 ## Join The Community
 
