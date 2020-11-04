@@ -1,7 +1,7 @@
 <center>
   <img src="/img/image.png">
   <br>
-  <b style="font-size: 28px;">FAQ</b>
+  <h1>FAQ</h1>
   <br>
   <i>Frequently Asked Questions</i>
   <hr>
