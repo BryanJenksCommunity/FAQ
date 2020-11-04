@@ -12,3 +12,20 @@
     <a href='https://github.com/BryanJenksCommunity/FAQ/issues/new?assignees=tallguyjenks&labels=New+Question&template=QUESTION.md&title='> >>Ask A Question!<<</a>
   </strong>
 </p>
+
+## Socials
+
+- [YouTube](https://www.youtube.com/c/BryanJenksTech)
+- [Twitter](https://twitter.com/tallguyjenks)
+- [Twitch](https://www.twitch.tv/tallguyjenks)
+
+## Join The Community
+
+- [Discrod](https://discord.gg/MxCVshN)
+
+## Support The Channel & My Content
+
+- [Patreon](https://www.patreon.com/bryanjenks?fan_landing=true)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/tallguyjenks)
+- [PayPal](https://www.paypal.me/tallguyjenks)
+- [Amazon Affiliate Link](https://amzn.to/3mlF6d5)
