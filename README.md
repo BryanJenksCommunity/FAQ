@@ -16,7 +16,7 @@
 
 ## Socials
 
-- [YouTube](https://www.youtube.com/c/BryanJenksTech)
+- [YouTube](https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1)
 - [Twitter](https://twitter.com/tallguyjenks)
 - [Twitch](https://www.twitch.tv/tallguyjenks)
 - [LinkedIn](https://www.linkedin.com/in/bryanjenks/)
