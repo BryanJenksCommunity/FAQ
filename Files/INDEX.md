@@ -30,13 +30,12 @@
 - #🌱️ ==Seedlings | distilled from literature notes==
 - #🌞️ ==Incubator | items not yet ready for planting or in need of planting==
 - #🌲️ ==Evergreen | forest notes==
-- #✏️ ==Workbench Note | Tagging salient points for consolidation on the workbench== 
-	- [[✏️ Workbench]]
 <br>
 - #✅️ ==Items that have tasks that i need to complete==
 - #🗺️ ==Maps of Content (the emerging organizational structure)==
 - #⚙️ ==General utilities i use in this system==
-	- [[♻️ Workflows]]
+	- [[✏️ Workbench]]
+	- [[♻️ Flows]]
 	- [[🔌️ Plugins]]
 	- [[🛑 Thinking About That]]
 - #❗️ ==IMPORTANT==
@@ -53,7 +52,7 @@
 - `+`: YouTube Videos
 - `(`: Web Articles or Publications, Newspapers, etc.
 - `&`: Research Paper
-- `-`: 
+- `-`: ^thisisatest
 
 #### Simple Drawing Creation
 
