@@ -29,6 +29,7 @@
 
 ## Support The Channel & My Content
 
+- :star: [GitHub Sponsor](https://github.com/sponsors/tallguyjenks) :star:
 - [Patreon](https://www.patreon.com/bryanjenks?fan_landing=true)
 - [Buy Me A Coffee](https://www.buymeacoffee.com/tallguyjenks)
 - [PayPal](https://www.paypal.me/tallguyjenks)
